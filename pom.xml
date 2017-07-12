@@ -4,7 +4,7 @@
 
 	<groupId>com.camunda.consulting.util</groupId>
 	<artifactId>camunda-util-license-installer-war</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 
 	<packaging>war</packaging>
 
@@ -69,7 +69,7 @@
 		<url>https://github.com/camunda-consulting/camunda-util-license-installer-war</url>
 		<connection>scm:git:git@github.com:camunda-consulting/camunda-util-license-installer-war.git</connection>
 		<developerConnection>scm:git:git@github.com:camunda-consulting/camunda-util-license-installer-war.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>0.1.0</tag>
 	</scm>
 
 	<distributionManagement>
